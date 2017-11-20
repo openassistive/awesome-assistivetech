@@ -12,8 +12,15 @@ See http://openassistive.org for a list of finished AT solutions
 
 ## Speech Recognition
 
+*Tools to aid Speech Recognition*
+
+* [Python Speech Recgonition](https://pypi.python.org/pypi/SpeechRecognition/) - Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
 ## Eyegaze 
+
+*Small and big projects to aid/support eyetracking*
+
+* [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
 
 
 
