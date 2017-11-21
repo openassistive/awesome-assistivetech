@@ -5,6 +5,9 @@ See http://openassistive.org for a list of finished AT solutions
 - [Awesome Assistive-Tech](#awesome-assistivetech)
     - [Speech Recognition](#speech-recognition)
     - [EyeGaze](#eyegaze)
+- [Support](#support)
+    - [Email Lists](#email-lists)
+    - [AT Engineering Organisations](#AT-engineering-organisations)
 - [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
@@ -21,6 +24,21 @@ See http://openassistive.org for a list of finished AT solutions
 *Small and big projects to aid/support eyetracking*
 
 * [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
+
+# Support 
+
+## Email Lists
+
+* [AT-Forum](http://assistive-technology.996335.n3.nabble.com) - The [RESNA](http://www.resna.org) (Rehabilitation Engineering Society for North America) forum
+* [AssistTech](https://www.jiscmail.ac.uk/cgi-bin/webadmin?A0=ASSISTECH) - UK based list with a number of AT professionals from an Clincial Science/Engineering Background
+* [Access Group](http://ataccessgroup.org.uk) - UK based group of Occupational Therapists and Engineeers finding solutions for people to access electronic equipment
+* [Communication Maters AACForum](https://www.communicationmatters.org.uk/page/aac-forum) - UK Forum for the UK Chapter of ISAAC (International Society of AAC)
+
+## AT Engineering Organisations
+
+* [Tetra Society of North America](http://www.tetrasociety.org) - Volunteer engineers across North America assisting people with disabilities
+* [REMAP](http://remap.org.uk) - Volunteer engineers across the UK assisting people - similar to Tetra 
+
 
 
 
