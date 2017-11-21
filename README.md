@@ -50,4 +50,4 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/openassistive/awesome-assitivetech/blob/master/CONTRIBUTING.md) first.
 
-I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them]((https://github.com/openassistive/awesome-assitivetech/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
+I will keep some pull requests open if I'm not sure whether those libraries are awesome, you could [vote for them](https://github.com/openassistive/awesome-assitivetech/pulls) by adding :+1: to them. Pull requests will be merged when their votes reach **20**.
