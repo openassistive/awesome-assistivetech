@@ -6,9 +6,9 @@ See http://openassistive.org for a list of finished AT solutions
     - [Speech Recognition](#speech-recognition)
     - [EyeGaze](#eyegaze)
 - [Support](#support)
+    - [Hackathons](#hackathons)
     - [Email Lists](#email-lists)
     - [AT Engineering Organisations](#AT-engineering-organisations)
-- [Other Awesome Lists](#other-awesome-lists)
 - [Contributing](#contributing)
 
 - - -
@@ -27,6 +27,10 @@ See http://openassistive.org for a list of finished AT solutions
 
 # Support 
 
+## Hackathons
+
+* [ATHack](http://assistivetech.mit.edu/athack/). Boston/MIT based hackathon pairing indviduals with disabilities with hackers
+
 ## Email Lists
 
 * [AT-Forum](http://assistive-technology.996335.n3.nabble.com) - The [RESNA](http://www.resna.org) (Rehabilitation Engineering Society for North America) forum
@@ -40,21 +44,7 @@ See http://openassistive.org for a list of finished AT solutions
 * [REMAP](http://remap.org.uk) - Volunteer engineers across the UK assisting people - similar to Tetra 
 
 
-
-
-
-# Other Awesome Lists
-
-List of lists.
-
-* Monty
-    * [awesome](https://github.com/sindresorhus/awesome)
-    * [lists](https://github.com/jnv/lists)
-* Python
-    * [pycrumbs](https://github.com/kirang89/pycrumbs)
-    * [python-github-projects](https://github.com/checkcheckzz/python-github-projects)
-    * [python_reference](https://github.com/rasbt/python_reference)
-    * [pythonidae](https://github.com/svaksha/pythonidae)
+- - -
 
 # Contributing
 
