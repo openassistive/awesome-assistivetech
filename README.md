@@ -7,6 +7,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
     - [Speech Recognition](#speech-recognition)
     - [Speech Synthesis](#speech-synthesis)
     - [EyeGaze](#eyegaze)
+    - [Switch Scanning](#switch-scanning)
 - [Support](#support)
     - [Hackathons](#hackathons)
     - [Email Lists](#email-lists)
@@ -54,6 +55,12 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 * [GazeLinger](https://github.com/CoughDrop/gazelinger) - Node module to listen to eye gaze events from the eye-tracking libraries
 * [EyeTab](https://github.com/errollw/EyeTab) - a 3D model-based gaze tracker - designed for Microsoft Surface.
 * [GazePointer](https://github.com/MSREnable/GazePointer) -  SDK which provides an abstraction layer for interacting with a number of eye trackers. The current implementation provides support for Tobii EyeX. 
+
+## Switch Scanning
+
+*Using switches and scanning*
+
+* [Switch Access for Webpages](http://leifcr.github.io/switch_access/) - is a coffeescript that enables switch/keyboard control for navigating a webpage for AAC users. Nice demos. Well implemented. 
 
 # Support 
 
