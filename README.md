@@ -3,6 +3,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 
 - [Awesome Assistive-Tech](#awesome-assistivetech)
+    - [AAC (Alternative & Augmentative Communication](#AAC)
     - [Speech Recognition](#speech-recognition)
     - [Speech Synthesis](#speech-synthesis)
     - [EyeGaze](#eyegaze)
@@ -15,6 +16,8 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 - - -
 
 ## AAC
+
+*Tools to help you make a better Augmentative & Alternative Communication system* 
 
 * [OpenBoardFormat](http://www.openboardformat.org). Suggested format for open source language layouts/packages for AAC systems. See also the [OBF Gem](https://github.com/CoughDrop/obf) - which works with this. 
 
