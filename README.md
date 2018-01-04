@@ -14,6 +14,10 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 - - -
 
+## AAC
+
+* [OpenBoardFormat](http://www.openboardformat.org). Suggested format for open source language layouts/packages for AAC systems. See also the [OBF Gem](https://github.com/CoughDrop/obf) - which works with this. 
+
 ## Speech Recognition
 
 *Tools to aid Speech Recognition*
@@ -26,13 +30,14 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 * [QtSpeech](https://github.com/yshurik/qtspeech) -  a cross-platform library based on Qt to provide common cross-platform API to access and use system TTS (Text-to-Speech) engines on platforms as Windows (SAPI), Mac (SpeechSynthesis) and Linux (Festival).
 * [Talkify](https://github.com/Hagsten/Talkify) - A javascript text to speech (TTS) library. Originally from and used by https://talkify.net. Uses https://manage.talkify.net/ as a backend. 
-
+* [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
+* [Acapela for Electron](https://github.com/CoughDrop/acapela) - Get acapela voices working on Electron apps. 
 
 ## Eyegaze 
 
 *Small and big projects to aid/support eyetracking*
 
-* [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
+* [GazeLinger](https://github.com/CoughDrop/gazelinger) - Node module to listen to eye gaze events from the eye-tracking libraries
 
 # Support 
 
