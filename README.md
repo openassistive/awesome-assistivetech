@@ -4,6 +4,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 - [Awesome Assistive-Tech](#awesome-assistivetech)
     - [Speech Recognition](#speech-recognition)
+    - [Speech Synthesis](#speech-synthesis)
     - [EyeGaze](#eyegaze)
 - [Support](#support)
     - [Hackathons](#hackathons)
