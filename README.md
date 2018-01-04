@@ -20,6 +20,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 *Tools to help you make a better Augmentative & Alternative Communication system* 
 
 * [OpenBoardFormat](http://www.openboardformat.org). Suggested format for open source language layouts/packages for AAC systems. See also the [OBF Gem](https://github.com/CoughDrop/obf) - which works with this. 
+* [AAC-Shim](https://github.com/CoughDrop/aac_shim) - a simple helper method for helping web apps that want to support being embedded inside an AAC system. Check out the [demos](https://tools.openaac.org/demo.html). 
 
 ## Speech Recognition
 
