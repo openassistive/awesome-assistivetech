@@ -36,11 +36,20 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 * [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
 * [Acapela for Electron](https://github.com/CoughDrop/acapela) - Get acapela voices working on Electron apps. 
 
+## Head/Face tracking
+
+*Tools to face tracking*
+
+* [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - an open source facial behavior analysis toolkit. See [OpenFaceIOS](https://github.com/FaceAR/OpenFaceIOS) for an iOS version.
+
+
 ## Eyegaze 
 
 *Small and big projects to aid/support eyetracking*
 
 * [GazeLinger](https://github.com/CoughDrop/gazelinger) - Node module to listen to eye gaze events from the eye-tracking libraries
+* [EyeTab](https://github.com/errollw/EyeTab) - a 3D model-based gaze tracker - designed for Microsoft Surface.
+* [GazePointer](https://github.com/MSREnable/GazePointer) -  SDK which provides an abstraction layer for interacting with a number of eye trackers. The current implementation provides support for Tobii EyeX. 
 
 # Support 
 
