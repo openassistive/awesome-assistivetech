@@ -31,6 +31,9 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 *Tools to aid/do speech synthesis*
 
+* [eSpeak](http://espeak.sourceforge.net) - compact open source software speech synthesizer for English and other languages, for Linux and Windows 
+* [festival](http://festvox.org/festival/) - multi-lingual speech synthesis workbench that runs on multiple-platforms offering black box text to speech, as well as an open architecture for research in speech synthesis
+* [flite](http://www.speech.cs.cmu.edu/flite/) -  small, fast run-time synthesis engine developed at CMU and primarily designed for small embedded machines and/or large servers. Flite is designed as an alternative synthesis engine to Festival for voices built using the FestVox suite of voice building tools. 
 * [QtSpeech](https://github.com/yshurik/qtspeech) -  a cross-platform library based on Qt to provide common cross-platform API to access and use system TTS (Text-to-Speech) engines on platforms as Windows (SAPI), Mac (SpeechSynthesis) and Linux (Festival).
 * [Talkify](https://github.com/Hagsten/Talkify) - A javascript text to speech (TTS) library. Originally from and used by https://talkify.net. Uses https://manage.talkify.net/ as a backend. 
 * [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
