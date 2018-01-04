@@ -19,6 +19,14 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 * [Python Speech Recgonition](https://pypi.python.org/pypi/SpeechRecognition/) - Library for performing speech recognition, with support for several engines and APIs, online and offline.
 
+## Speech Synthesis
+
+*Tools to aid/do speech synthesis*
+
+* [QtSpeech](https://github.com/yshurik/qtspeech) -  a cross-platform library based on Qt to provide common cross-platform API to access and use system TTS (Text-to-Speech) engines on platforms as Windows (SAPI), Mac (SpeechSynthesis) and Linux (Festival).
+* [Talkify](https://github.com/Hagsten/Talkify) - A javascript text to speech (TTS) library. Originally from and used by https://talkify.net. Uses https://manage.talkify.net/ as a backend. 
+
+
 ## Eyegaze 
 
 *Small and big projects to aid/support eyetracking*
