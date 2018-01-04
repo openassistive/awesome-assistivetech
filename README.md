@@ -3,7 +3,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 
 - [Awesome Assistive-Tech](#awesome-assistivetech)
-    - [AAC (Alternative & Augmentative Communication](#AAC)
+    - [AAC (Alternative & Augmentative Communication](#aac)
     - [Speech Recognition](#speech-recognition)
     - [Speech Synthesis](#speech-synthesis)
     - [EyeGaze](#eyegaze)
