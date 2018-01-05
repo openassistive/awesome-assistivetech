@@ -8,6 +8,8 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
     - [Speech Synthesis](#speech-synthesis)
     - [EyeGaze](#eyegaze)
     - [Switch Scanning](#switch-scanning)
+        - [Reading material](#reading-material)
+        - [Scanning on the web](#scanning-on-the-web)
 - [Support](#support)
     - [Hackathons](#hackathons)
     - [Email Lists](#email-lists)
@@ -60,7 +62,16 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 *Using switches and scanning*
 
+### Reading material
+
+* [Switch Access to Technology](https://acecentre.org.uk/resources/switch-access-technology/) - a comprhensive guide to scanning and the various patterns out there. 
+
+### Scanning on the web 
+
 * [Switch Access for Webpages](http://leifcr.github.io/switch_access/) - is a coffeescript that enables switch/keyboard control for navigating a webpage for AAC users. Nice demos. Well implemented. 
+* [switchScanJS](https://github.com/mikethrussell/switchScanJS) - a jQuery based implementation with auto-scanning. 
+* [AAC-Shim](https://github.com/CoughDrop/aac_shim) - a simple helper method for helping web apps that want to support being embedded inside an AAC system. Check out the [demos](https://tools.openaac.org/demo.html). 
+
 
 # Support 
 
