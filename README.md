@@ -86,6 +86,10 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 * [Access Group](http://ataccessgroup.org.uk) - UK based group of Occupational Therapists and Engineeers finding solutions for people to access electronic equipment
 * [Communication Maters AACForum](https://www.communicationmatters.org.uk/page/aac-forum) - UK Forum for the UK Chapter of ISAAC (International Society of AAC)
 
+## Email / News announcements 
+
+* [AACinfo](http://aacinfo.email) - a monthly-ish email which lists new products, technologies and strategies in AAC. Users contribute to the site and Ace centre edit it. 
+
 ## AT Engineering Organisations
 
 * [Tetra Society of North America](http://www.tetrasociety.org) - Volunteer engineers across North America assisting people with disabilities
