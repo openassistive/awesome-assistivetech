@@ -42,6 +42,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 * [Talkify](https://github.com/Hagsten/Talkify) - A javascript text to speech (TTS) library. Originally from and used by https://talkify.net. Uses https://manage.talkify.net/ as a backend. 
 * [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
 * [Acapela for Electron](https://github.com/CoughDrop/acapela) - Get acapela voices working on Electron apps. 
+* [ResponsiveVoice](https://responsivevoice.com) - Javascript based TTS - check site for pricing
 
 ## Head/Face tracking
 
