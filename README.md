@@ -43,6 +43,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 * [Extra TTS](https://github.com/CoughDrop/extra-tts) - Used to offer additional speech synthesis engines in cordova apps.
 * [Acapela for Electron](https://github.com/CoughDrop/acapela) - Get acapela voices working on Electron apps. 
 * [ResponsiveVoice](https://responsivevoice.com) - Javascript based TTS - check site for pricing
+* [Browser Speech Synthesis](https://browser-speech-support.firebaseapp.com) - which browsers support which voices. 
 
 ## Head/Face tracking
 
