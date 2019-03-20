@@ -80,6 +80,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 ## Hackathons
 
 * [ATHack](http://assistivetech.mit.edu/athack/). Boston/MIT based hackathon pairing indviduals with disabilities with hackers
+* [Hackcessible 2018](https://www.hackcessible.org). Sheffield, UK hackathon. 
 
 ## Email Lists
 
