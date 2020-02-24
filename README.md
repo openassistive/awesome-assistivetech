@@ -4,6 +4,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 - [Awesome Assistive-Tech](#awesome-assistivetech)
     - [AAC (Alternative & Augmentative Communication](#aac)
+    - [Word/Letter Prediction](#word-prediction)
     - [Speech Recognition](#speech-recognition)
     - [Speech Synthesis](#speech-synthesis)
     - [EyeGaze](#eyegaze)
@@ -24,6 +25,13 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 * [OpenBoardFormat](http://www.openboardformat.org). Suggested format for open source language layouts/packages for AAC systems. See also the [OBF Gem](https://github.com/CoughDrop/obf) - which works with this. 
 * [AAC-Shim](https://github.com/CoughDrop/aac_shim) - a simple helper method for helping web apps that want to support being embedded inside an AAC system. Check out the [demos](https://tools.openaac.org/demo.html). 
+
+## Word Prediction 
+
+*APIs and code samples to integrate word prediction into your system*
+
+* [Asterics-Predictionary](https://github.com/asterics/predictionary). JavaScript dictionary-based word prediction library with self-learning abilities.
+* [Imagineville Prediction API](https://api.imagineville.org/docs). Keith Vertanen's prediction API. 
 
 ## Speech Recognition
 
