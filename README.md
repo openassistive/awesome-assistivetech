@@ -32,6 +32,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 * [Asterics-Predictionary](https://github.com/asterics/predictionary). JavaScript dictionary-based word prediction library with self-learning abilities.
 * [Imagineville Prediction API](https://api.imagineville.org/docs). Keith Vertanen's prediction API. 
+* [Presage](http://presage.sourceforge.net). C++ based prediction engine, with Python bindings available (Python binding [doc](https://sourceforge.net/p/presage/presage/ci/master/tree/doc/python_binding.txt) and for an example see [this example](https://github.com/AceCentre/MorseWriter/blob/master/MorseCodeGUI.py#L21))
 
 ## Speech Recognition
 
