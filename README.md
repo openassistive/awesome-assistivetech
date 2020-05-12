@@ -26,6 +26,12 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 * [OpenBoardFormat](http://www.openboardformat.org). Suggested format for open source language layouts/packages for AAC systems. See also the [OBF Gem](https://github.com/CoughDrop/obf) - which works with this. 
 * [AAC-Shim](https://github.com/CoughDrop/aac_shim) - a simple helper method for helping web apps that want to support being embedded inside an AAC system. Check out the [demos](https://tools.openaac.org/demo.html). 
 
+## Symbols
+
+*APIs and resources to support access to symbols 
+
+* [Symboliser API](https://symboliser.commtap.org/commtap-symbols-server-api/). From Commtap. Adds in synonyms and variants on top of the normal symbol information 
+
 ## Word Prediction 
 
 *APIs and code samples to integrate word prediction into your system*
