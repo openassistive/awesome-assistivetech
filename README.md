@@ -1,5 +1,5 @@
 # Awesome Assitivetech [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
-A curated list of 😎 awesome Assistive Technology frameworks and tools to help you develop your AT tool/system.
+A curated list of 😎 awesome Assistive Technology frameworks and tools to help you develop your AT tool/system. *note: this is for tools rather than end products. For those see [OpenAssistive](https://openassistive.org/)*
 
 
 - [Awesome Assistive-Tech](#awesome-assistivetech)
