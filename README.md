@@ -31,6 +31,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 
 *APIs and resources to support access to symbols 
 
+* [Open Symbols](https://www.opensymbols.org/). Provides api and web front end to search through all open source symbol sets. Powers coughdrop
 * [Symboliser API](https://symboliser.commtap.org/commtap-symbols-server-api/). From Commtap. Adds in synonyms and variants on top of the normal symbol information 
 
 ## Word Prediction 
