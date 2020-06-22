@@ -67,6 +67,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
 *Tools to face tracking*
 
 * [OpenFace](https://github.com/TadasBaltrusaitis/OpenFace) - an open source facial behavior analysis toolkit. See [OpenFaceIOS](https://github.com/FaceAR/OpenFaceIOS) for an iOS version.
+* [Cordova-Face](https://github.com/open-aac/cordova_face) - ARkit based head tracking and basic eye tracking for Cordova platforms. Currently focused on iOS. 
 
 
 ## Eyegaze 
