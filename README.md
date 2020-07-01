@@ -8,7 +8,7 @@ A curated list of 😎 awesome Assistive Technology frameworks and tools to help
     - [Word/Letter Prediction](#word-prediction)
     - [Speech Recognition](#speech-recognition)
     - [Speech Synthesis](#speech-synthesis)
-    - [Head/Face tracking](#head-face-tracking)
+    - [Head/Face tracking](#headface-tracking)
     - [EyeGaze](#eyegaze)
     - [Switch Scanning](#switch-scanning)
         - [Reading material](#reading-material)
